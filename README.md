@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0035-search-insert-position) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,9 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
