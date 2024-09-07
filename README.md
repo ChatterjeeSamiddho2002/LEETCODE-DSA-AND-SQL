@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Math
 |  |
@@ -131,4 +132,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
