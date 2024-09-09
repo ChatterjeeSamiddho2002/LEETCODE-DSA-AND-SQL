@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0725-split-linked-list-in-parts](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
