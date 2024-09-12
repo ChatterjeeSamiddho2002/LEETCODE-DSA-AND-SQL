@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+| [0239-sliding-window-maximum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 | [0906-walking-robot-simulation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0906-walking-robot-simulation) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
 ## Greedy
 |  |
 | ------- |
@@ -178,4 +180,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
