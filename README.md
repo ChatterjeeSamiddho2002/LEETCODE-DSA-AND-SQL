@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0937-online-stock-span) |
 ## Backtracking
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
+| [0937-online-stock-span](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0937-online-stock-span) |
 ## Number Theory
 |  |
 | ------- |
@@ -192,4 +194,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
