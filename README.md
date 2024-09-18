@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
 | [0496-next-greater-element-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0179-largest-number](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0179-largest-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0539-minimum-time-difference) |
 ## Prefix Sum
 |  |
