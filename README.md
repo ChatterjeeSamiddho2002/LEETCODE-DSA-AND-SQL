@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0009-palindrome-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -222,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
