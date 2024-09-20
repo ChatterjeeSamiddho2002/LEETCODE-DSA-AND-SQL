@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0179-largest-number](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0214-shortest-palindrome) |
 ## Matrix
 |  |
 | ------- |
@@ -230,4 +232,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0241-different-ways-to-add-parentheses) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
