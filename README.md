@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0937-online-stock-span) |
@@ -176,10 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Monotonic Stack
 |  |
