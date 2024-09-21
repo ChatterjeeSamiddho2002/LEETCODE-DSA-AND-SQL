@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0386-lexicographical-numbers) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
