@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2755-extra-characters-in-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [2755-extra-characters-in-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2755-extra-characters-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -250,4 +254,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [2755-extra-characters-in-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
