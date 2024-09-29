@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0432-all-oone-data-structure](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0906-walking-robot-simulation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0432-all-oone-data-structure](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2411-spiral-matrix-iv) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0731-my-calendar-ii) |
 | [0937-online-stock-span](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0937-online-stock-span) |
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
