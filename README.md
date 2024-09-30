@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0731-my-calendar-ii) |
 | [0906-walking-robot-simulation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0906-walking-robot-simulation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0937-online-stock-span) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Backtracking
 |  |
 | ------- |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0731-my-calendar-ii) |
 | [0937-online-stock-span](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0937-online-stock-span) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Data Stream
 |  |
 | ------- |
