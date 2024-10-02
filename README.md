@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0731-my-calendar-ii) |
 | [0906-walking-robot-simulation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0906-walking-robot-simulation) |
+| [1256-rank-transform-of-an-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0906-walking-robot-simulation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1256-rank-transform-of-an-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2755-extra-characters-in-a-string) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0539-minimum-time-difference) |
+| [1256-rank-transform-of-an-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1256-rank-transform-of-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
