@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
