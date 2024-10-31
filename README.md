@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0670-maximum-swap) |
