@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1256-rank-transform-of-an-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0035-search-insert-position) |
 | [0729-my-calendar-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0731-my-calendar-ii) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1940-maximum-xor-for-each-query) |
@@ -380,11 +384,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1304-longest-happy-string) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -393,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Design
 |  |
 | ------- |
