@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2411-spiral-matrix-iv) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2155-find-missing-observations) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sorting
