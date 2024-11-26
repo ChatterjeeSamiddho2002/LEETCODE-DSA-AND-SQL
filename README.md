@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0731-my-calendar-ii) |
+| [0787-sliding-puzzle](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0787-sliding-puzzle) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1002-maximum-width-ramp) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0787-sliding-puzzle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2089-maximum-matrix-sum) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
