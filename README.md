@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2232-adding-spaces-to-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2232-adding-spaces-to-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2155-find-missing-observations) |
+| [2232-adding-spaces-to-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
