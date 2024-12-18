@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0670-maximum-swap) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2155-find-missing-observations](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2155-find-missing-observations) |
 | [2716-prime-subtraction-operation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
