@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0386-lexicographical-numbers) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
@@ -431,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0787-sliding-puzzle) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1484-linked-list-in-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
