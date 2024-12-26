@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0179-largest-number) |
 | [0239-sliding-window-maximum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0239-sliding-window-maximum) |
+| [0494-target-sum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0539-minimum-time-difference) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0494-target-sum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0494-target-sum) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2554-minimum-total-distance-traveled) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
