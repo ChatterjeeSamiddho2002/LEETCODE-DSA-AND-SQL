@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0731-my-calendar-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0787-sliding-puzzle) |
+| [0824-number-of-lines-to-write-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0824-number-of-lines-to-write-string) |
 | [0890-lemonade-change](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0906-walking-robot-simulation) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0812-rotate-string) |
+| [0824-number-of-lines-to-write-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0824-number-of-lines-to-write-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1197-parsing-a-boolean-expression](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1197-parsing-a-boolean-expression) |
