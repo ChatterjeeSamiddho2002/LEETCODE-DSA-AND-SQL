@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2232-adding-spaces-to-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2300-construct-string-with-repeat-limit) |
 | [2465-shifting-letters-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2465-shifting-letters-ii) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2128-reverse-prefix-of-word) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
