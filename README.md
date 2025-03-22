@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2648-number-of-ways-to-earn-points](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2648-number-of-ways-to-earn-points) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2586-longest-square-streak-in-an-array) |
+| [2648-number-of-ways-to-earn-points](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2648-number-of-ways-to-earn-points) |
 | [2755-extra-characters-in-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Sliding Window
