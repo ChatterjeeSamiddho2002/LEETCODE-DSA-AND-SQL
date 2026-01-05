@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1923-sentence-similarity-iii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/1975-maximum-matrix-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2089-maximum-matrix-sum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2089-maximum-matrix-sum) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2300-construct-string-with-repeat-limit) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0787-sliding-puzzle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1972-rotating-the-box](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2343-count-unguarded-cells-in-the-grid) |
