@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1435-xor-queries-of-a-subarray) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2554-minimum-total-distance-traveled](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2554-minimum-total-distance-traveled) |
