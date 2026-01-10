@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0567-permutation-in-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0812-rotate-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0824-number-of-lines-to-write-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0494-target-sum](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0494-target-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1025-minimum-cost-for-tickets](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
