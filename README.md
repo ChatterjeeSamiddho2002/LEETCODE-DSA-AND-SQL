@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1908-recyclable-and-low-fat-products](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1908-recyclable-and-low-fat-products) |
 | [3421-find-students-who-improved](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3421-find-students-who-improved) |
 | [3436-find-valid-emails](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3436-find-valid-emails) |
+| [3570-find-books-with-no-available-copies](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3570-find-books-with-no-available-copies) |
 ## Stack
 |  |
 | ------- |
