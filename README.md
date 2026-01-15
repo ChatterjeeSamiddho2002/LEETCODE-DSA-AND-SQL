@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -406,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
