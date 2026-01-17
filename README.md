@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-count-number-of-bad-pairs](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
 |  |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Line Sweep
 |  |
 | ------- |
