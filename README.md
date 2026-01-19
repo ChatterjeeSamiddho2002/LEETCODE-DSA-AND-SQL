@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1256-rank-transform-of-an-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1390-four-divisors](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/0085-maximal-rectangle) |
 | [0787-sliding-puzzle](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0787-sliding-puzzle) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1895-largest-magic-square](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/1895-largest-magic-square) |
 | [1972-rotating-the-box](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1972-rotating-the-box) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0731-my-calendar-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/1694-make-sum-divisible-by-p) |
