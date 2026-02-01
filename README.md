@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3291-find-if-array-can-be-sorted) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3291-find-if-array-can-be-sorted) |
 ## Prefix Sum
 |  |
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Graph
 |  |
 | ------- |
