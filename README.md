@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3291-find-if-array-can-be-sorted) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2755-extra-characters-in-a-string) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2868-continuous-subarrays](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/2868-continuous-subarrays) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA-AND-SQL/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ChatterjeeSamiddho2002/LEETCODE-DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Monotonic Queue
